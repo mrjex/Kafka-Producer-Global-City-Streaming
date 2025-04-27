@@ -1,0 +1,22 @@
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python distribution/packaging
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Java/Maven
+*.jar
+target/
+.mvn/
+.idea/
+*.iml
+
+# Node.js
+node_modules/
